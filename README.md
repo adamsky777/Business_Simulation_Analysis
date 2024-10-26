@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.anylogic.com" target="_blank">
-    <img src="./Anylogic_logo.png" alt="Anylogic" width="370" height="250"/>
+    <img src="./Anylogic_logo.png" alt="Anylogic" width="320" height="250"/>
 </a>
 
 
@@ -33,7 +33,7 @@
 
 <br />
 
-#### _"Effective management in complex systems requires understanding feedback loops and iterating on mental models for better decision-making."_
+#### _"Effective business simulations require the comprehension of dynamic interactions and the refinement of models to facilitate strategic decision-making."_
 
 ## About the course
 
