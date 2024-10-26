@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.anylogic.com" target="_blank">
-    <img src="./Anylogic_logo.png" alt="Anylogic" width="290" height="250"/>
+    <img src="./Anylogic_logo.png" alt="Anylogic" width="280" height="250"/>
 </a>
 
 
